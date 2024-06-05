@@ -67,4 +67,4 @@ if (typeof exports !== 'undefined') {
     };
 }
 
-// export { msalConfig, loginRequest };
+export { msalConfig, loginRequest };
